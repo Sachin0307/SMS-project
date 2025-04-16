@@ -16,7 +16,7 @@ Delete Student Records:
 Users can remove student records from the database when necessary, ensuring the information remains up-to-date and relevant.
 Database Management:
 
-The system uses SQL (SQLite or MySQL) to store and retrieve student data efficiently. SQL queries are used to interact with the database, ensuring data consistency and security.
+The system uses SQL (SQLite) to store and retrieve student data efficiently. SQL queries are used to interact with the database, ensuring data consistency and security.
 Responsive and User-Friendly Interface:
 
 The interface is designed using the Tkinter library, providing a simple yet effective layout for users to perform tasks like adding, updating, and deleting records without technical expertise.
